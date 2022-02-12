@@ -1,0 +1,101 @@
+
+body{
+    background-color: gray;
+}
+/*navigation*/
+nav ul {
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    width: 400px;
+
+}
+
+/*navigation end*/
+/*header only changes whats in the header*/
+
+header h1 {
+    font-weight: bold;
+    font-size: 36px;
+    color: white;
+    margin:0;
+}
+header {
+    padding: 20px 35px;
+    background-position: 80%;
+    background-image: url("./download.jpeg") ;
+    background-attachment: fixed;
+    background-size: cover;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    position:sticky;
+    position:-webkit-sticky;
+    top:0;
+    z-index: 9999;
+}
+header a{
+text-decoration: none;
+color:white;
+
+}
+header h1{
+    color: gray;
+font-weight: bold;
+}
+header nav ul  {
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+align-items: center ; 
+list-style: none; 
+}
+/*header end*/
+h1 ,h4{
+    color: aliceblue;
+
+}
+p{
+    color: white;
+}
+section {
+    width: 100%;
+}
+
+section div {
+    color: white;
+    background-color: rgb(130, 130, 223);
+    text-align: center;
+    line-height: 45px;
+    width: 100%;
+
+}
+.center {
+    display: flex;
+    justify-content: space-around;
+}
+article {
+    margin: 10px;
+
+}
+
+.work-img {
+    width: 100;
+    height: auto;
+}
+.wild-wonders {
+    margin-bottom: 30px;
+    display: flex;
+}
+#About-me {
+    float: left;
+    margin: 5px;
+   
+}
+.cta{
+    
+    
+}
+
+/*contact information*/
