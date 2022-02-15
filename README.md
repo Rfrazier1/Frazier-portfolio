@@ -15,4 +15,4 @@ each picture can be clicked on
 
 ## Links to deployed applications
 https://github.com/Rfrazier1/Frazier-portfolio
-https://rfrazier1.github.io/runbuddy/
+https://rfrazier1.github.io/Frazier-portfolio/
